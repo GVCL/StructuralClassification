@@ -1,0 +1,28 @@
+Fan_disk
+
+ if(  cloud_[i].XYZ[0] > 0.24 && cloud_[i].XYZ[1] < 1.8)
+
+
+ Boy ear
+  if(  cloud_[i].XYZ[1] > 0.15 && cloud_[i].XYZ[1] < 0.5 && cloud_[i].XYZ[0] > 1.0 && cloud_[i].XYZ[0] < 1.15)
+
+
+  Boy face
+  //if( cloud_[i].XYZ[1] < 0.20 && cloud_[i].XYZ[0] < 1.15)
+
+     //
+
+Area1 
+
+if( cloud_[i].XYZ[1] >1.61 && cloud_[i].XYZ[1] <1.85 && cloud_[i].XYZ[0] <0.41 && cloud_[i].XYZ[0] > 0.18)
+
+
+stadium seat
+
+  if( cloud_[i].XYZ[1] < 0.20 && cloud_[i].XYZ[0] < 1.15)
+
+
+  area3
+
+  if( cloud_[i].XYZ[1] >1.70 && cloud_[i].XYZ[1] <1.85 && cloud_[i].XYZ[0] <0.61 && cloud_[i].XYZ[0] > 0.30)
+ 
